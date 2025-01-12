@@ -1,0 +1,1 @@
+proc badproc {a b} {if {$a == 0} {return 1} {return $b/$a}}
